@@ -15,4 +15,10 @@
 <p>Welcome to your first GitHub Pages website!</p>
 
 </body>
+  
+<footer>
+  <hr>
+  &copy <?php echo date("Y"); ?> Kamil Kuzara
+</footer>
+  
 </html>
